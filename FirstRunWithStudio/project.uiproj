@@ -1,0 +1,6 @@
+{
+  "Name": "1_FirstRunWithStudio",
+  "ProjectType": "Process",
+  "Description": "Proceso en blanco",
+  "MainFile": "Main.xaml"
+}
