@@ -1,0 +1,6 @@
+{
+  "Name": "5_4Switch",
+  "ProjectType": "Process",
+  "Description": "Proceso en blanco",
+  "MainFile": "Main.xaml"
+}

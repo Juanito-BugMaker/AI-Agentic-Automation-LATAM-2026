@@ -1,0 +1,6 @@
+{
+  "Name": "5_5Parallel",
+  "ProjectType": "Process",
+  "Description": "Proceso en blanco",
+  "MainFile": "Main.xaml"
+}

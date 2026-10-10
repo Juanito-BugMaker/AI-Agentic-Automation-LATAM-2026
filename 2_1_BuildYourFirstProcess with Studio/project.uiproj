@@ -1,0 +1,6 @@
+{
+  "Name": "2_1_BuildYourFirstProcess with Studio",
+  "ProjectType": "Process",
+  "Description": "ACME: https://acme-test.uipath.com/first-automation",
+  "MainFile": "Main.xaml"
+}
